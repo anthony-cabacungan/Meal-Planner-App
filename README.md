@@ -14,7 +14,7 @@ This is a simple meal planning app that allows you to save and create food recip
 
 ## Introduction <br>
 
-Meal Planner App is a mobile application that was developed for my Fall 2022 Mobile Device Application Programming class at CSUF. This app was developed using Kotlin and Android Studio Chipmunk | 2021.2.1 Patch 2. The assignment was to create a mobile application in a team of 4-5 people an implement features such as callbacks, logging, layouts, resources, resource qualifiers, persistence and UI flexibility.
+Meal Planner App is a mobile application that was developed for my Fall 2022 Mobile Device Application Programming class at CSUF. This app was developed using Kotlin and Android Studio Chipmunk | 2021.2.1 Patch 2. The assignment was to create a mobile application in a team of 4-5 people an implement features such as callbacks, logging, layouts, resources, resource qualifiers, persistence, and UI flexibility.
 
 <br>
 
