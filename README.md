@@ -5,10 +5,10 @@ This is a simple meal planning app that allows you to save and create food recip
 
 ## Table Of Contents:
 
-* [Introduction](#Introduction)
-* [The Team](#Team)
-* [Features](#Game)
-* [Acknowledgments](#Acknowledgments)
+* [Introduction](#introduction)
+* [The Team](#team)
+* [Features](#features)
+* [Acknowledgments](#acknowledgments)
 
 <br>
 
